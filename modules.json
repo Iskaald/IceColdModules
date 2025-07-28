@@ -1,0 +1,67 @@
+{
+  "modules": [
+    {
+      "name": "com.iskaald.foundation",
+      "version": "1.0.0",
+      "displayName": "Ice Cold Foundation",
+      "description": "Base systems and utilities for Unity projects.",
+      "unity": "2021.3",
+      "author": {
+        "name": "Iskald"
+      }
+    },
+    {
+      "name": "com.iskaald.ui",
+      "version": "1.0.0",
+      "displayName": "Ice Cold UI",
+      "description": "Provides a centralized system for registering, opening, and managing UI windows. Includes base classes and interfaces for building modular and extensible UI components.",
+      "unity": "2021.3",
+      "author": {
+        "name": "Iskald"
+      },
+      "dependencies": {
+        "com.iskaald.foundation": "1.0.0",
+        "com.iskaald.monobehaviourhost": "1.0.0"
+      }
+    },
+    {
+      "name": "com.iskaald.monobehaviourhost",
+      "version": "1.0.0",
+      "displayName": "Ice Cold Mono Behaviour Host",
+      "description": "Provides a centralized system for creating, managing, and executing MonoBehaviour components, enabling non-MonoBehaviour classes to utilize Unity's update loop and coroutines.",
+      "unity": "2021.3",
+      "author": {
+        "name": "Iskald"
+      },
+      "dependencies": {
+        "com.iskaald.foundation": "1.0.0"
+      }
+    },
+    {
+      "name": "com.iskaald.network",
+      "version": "1.0.0",
+      "displayName": "Ice Cold Network",
+      "description": "A network service for Unity that manages HTTP requests and provides a built-in request queue and handler.",
+      "unity": "2021.3",
+      "author": {
+        "name": "Iskald"
+      },
+      "dependencies": {
+        "com.iskaald.foundation": "1.0.0"
+      }
+    },
+    {
+      "name": "com.iskaald.saveservice",
+      "version": "1.0.0",
+      "displayName": "Ice Cold Save Service",
+      "description": "A flexible save service for Unity that manages properties of any type and supports saving to PlayerPrefs, files, or custom destinations using JSON serialization.",
+      "unity": "2021.3",
+      "author": {
+        "name": "Iskald"
+      },
+      "dependencies": {
+        "com.iskaald.foundation": "1.0.0"
+      }
+    }
+  ]
+}
