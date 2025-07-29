@@ -9,6 +9,10 @@
         "name": "Iskald"
       },
       "versions": [
+        {
+          "tag": "1.0.0",
+          "sha": "6c8a550ff405c9df410cd13d92125a3748359319"
+        }
       ],
       "repo": "https://github.com/Iskaald/IceColdFoundation.git"
     },
@@ -21,6 +25,10 @@
         "name": "Iskald"
       },
       "versions": [
+        {
+          "tag": "1.0.0",
+          "sha": "f3c55c8f6357695e86a03b5b6a6787b7b76489b7"
+        }
       ],
       "repo": "https://github.com/Iskaald/IceColdUI.git",
       "dependencies": {
@@ -37,6 +45,10 @@
         "name": "Iskald"
       },
       "versions": [
+        {
+          "tag": "1.0.0",
+          "sha": "61c9682ad3c35d14413bd5863d12a9a92cc5a01b"
+        }
       ],
       "repo": "https://github.com/Iskaald/IceColdMonoBehaviourHost.git",
       "dependencies": {
@@ -52,6 +64,10 @@
         "name": "Iskald"
       },
       "versions": [
+        {
+          "tag": "1.0.0",
+          "sha": "77c65229bfddd46ccc83ab065523caddd3b4c617"
+        }
       ],
       "repo": "https://github.com/Iskaald/IceColdNetwork.git",
       "dependencies": {
@@ -67,6 +83,10 @@
         "name": "Iskald"
       },
       "versions": [
+        {
+          "tag": "1.0.0",
+          "sha": "74a741d88ca1b033b76de33bbc3db6550245e45b"
+        }
       ],
       "repo": "https://github.com/Iskaald/IceColdSaveService.git",
       "dependencies": {
