@@ -2,7 +2,7 @@
   "modules": [
     {
       "name": "com.iskaald.foundation",
-      "displayName": "Ice Cold Foundation",
+      "displayName": "Foundation",
       "description": "Base systems and utilities for Unity projects.",
       "unity": "2021.3",
       "author": {
@@ -18,7 +18,7 @@
     },
     {
       "name": "com.iskaald.ui",
-      "displayName": "Ice Cold UI",
+      "displayName": "UI",
       "description": "Provides a centralized system for registering, opening, and managing UI windows. Includes base classes and interfaces for building modular and extensible UI components.",
       "unity": "2021.3",
       "author": {
@@ -38,7 +38,7 @@
     },
     {
       "name": "com.iskaald.monobehaviourhost",
-      "displayName": "Ice Cold Mono Behaviour Host",
+      "displayName": "Mono Behaviour Host",
       "description": "Provides a centralized system for creating, managing, and executing MonoBehaviour components, enabling non-MonoBehaviour classes to utilize Unity's update loop and coroutines.",
       "unity": "2021.3",
       "author": {
@@ -57,7 +57,7 @@
     },
     {
       "name": "com.iskaald.network",
-      "displayName": "Ice Cold Network",
+      "displayName": "Network",
       "description": "A network service for Unity that manages HTTP requests and provides a built-in request queue and handler.",
       "unity": "2021.3",
       "author": {
@@ -76,7 +76,7 @@
     },
     {
       "name": "com.iskaald.saveservice",
-      "displayName": "Ice Cold Save Service",
+      "displayName": "Save Service",
       "description": "A flexible save service for Unity that manages properties of any type and supports saving to PlayerPrefs, files, or custom destinations using JSON serialization.",
       "unity": "2021.3",
       "author": {
