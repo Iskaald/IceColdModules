@@ -10,6 +10,10 @@
       },
       "versions": [
         {
+          "tag": "1.0.2",
+          "sha": "2a856bc246ae6d25052f8f005d04a338b8924146"
+        },
+        {
           "tag": "1.0.1",
           "sha": "9c54531849d4b4df08699c0e631c75d2fcae8d0e"
         },
@@ -31,7 +35,7 @@
       "versions": [
         {
           "tag": "1.0.0",
-          "sha": "f3c55c8f6357695e86a03b5b6a6787b7b76489b7"
+          "sha": "dd364680366edfebc230fec9e331024b818f53ae"
         }
       ],
       "repo": "https://github.com/Iskaald/IceColdUI.git",
