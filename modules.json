@@ -10,6 +10,10 @@
       },
       "versions": [
         {
+          "tag": "1.0.1",
+          "sha": "b1daa80f1d25f6e52db54ab4403262546980e0ab"
+        },
+        {
           "tag": "1.0.0",
           "sha": "10ac37e3b93db303b4cffd1f08c2e2d68e97a9f5"
         }
