@@ -11,7 +11,7 @@
       "versions": [
         {
           "tag": "1.0.0",
-          "sha": "c5413b6870d2307ccbe5920732a2338684a6df20"
+          "sha": "65595c29997961d92889bc26693a0c405259f2aa"
         }
       ],
       "repo": "https://github.com/Iskaald/IceColdFoundation.git"
@@ -27,7 +27,7 @@
       "versions": [
         {
           "tag": "1.0.0",
-          "sha": "255948b9973ba7be49fe57623ba7c10836c62c36"
+          "sha": "0c1e1a7d9480bb917e2c78b7afdaab445f600b78"
         }
       ],
       "repo": "https://github.com/Iskaald/IceColdUI.git",
@@ -47,7 +47,7 @@
       "versions": [
         {
           "tag": "1.0.0",
-          "sha": "a892d83403798480a755a2970bb8defd25826b1a"
+          "sha": "1ac7452a086947f8b8103ee30fa885d10c96e71d"
         }
       ],
       "repo": "https://github.com/Iskaald/IceColdMonoBehaviourHost.git",
@@ -66,7 +66,7 @@
       "versions": [
         {
           "tag": "1.0.0",
-          "sha": "867f20d78aa5234a8e7208a8ae65a83872e43826"
+          "sha": "12dd765bf121c443c304a0920ad2dbed14971563"
         }
       ],
       "repo": "https://github.com/Iskaald/IceColdNetwork.git",
@@ -85,7 +85,7 @@
       "versions": [
         {
           "tag": "1.0.0",
-          "sha": "d6262cb17df22cf848510af8e10226a2240faa5c"
+          "sha": "e5f1ba9074e4d2ebe66d4cd83b4162361bfa6919"
         }
       ],
       "repo": "https://github.com/Iskaald/IceColdSaveService.git",
